@@ -25,9 +25,8 @@ dist/
 /result
 /.direnv/
 /.envrc
+dist-newstyle/
 /dist-newstyle/
-/etl-runner/dist-newstyle/
-/data-transformations/dist-newstyle/
 
 # JetBrains IDE
 .idea/
